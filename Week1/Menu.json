@@ -1,0 +1,62 @@
+{
+    "appetizers":[
+        {
+            "name": "Artichoke Dip",
+            "ingredients": ["Artichoke", "CreamCheese", "Shredded Cheese", "Spinach", "Chips"],
+            "description": "Baked Spinach Arichoke Dip, topped wtih Cheese, and served with a side of Chips."
+        },
+        {
+            "name": " ",
+            "ingredients": [],
+            "description": " " 
+        }
+    ],
+    "cold sandwhich":[
+        {
+            "name": " ",
+            "ingredients": [],
+            "description": " "
+        },
+        {
+            "name": " ",
+            "ingredients": [],
+            "description": " " 
+        }
+    ],
+    "hot sandwhich":[
+        {
+            "name": " ",
+            "ingredients": [],
+            "description": " "
+        },
+        {
+            "name": " ",
+            "ingredients": [],
+            "description": " " 
+        }
+    ],
+    "deserts":[
+        {
+            "name": " ",
+            "ingredients": [],
+            "description": " "
+        },
+        {
+            "name": " ",
+            "ingredients": [],
+            "description": " " 
+        }
+    ],
+    "drinks":[
+        {
+            "name": " ",
+            "ingredients": [],
+            "description": " "
+        },
+        {
+            "name": " ",
+            "ingredients": [],
+            "description": " " 
+        }
+    ]
+}
