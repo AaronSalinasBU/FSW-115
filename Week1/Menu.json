@@ -6,57 +6,57 @@
             "description": "Baked Spinach Arichoke Dip, topped wtih Cheese, and served with a side of Chips."
         },
         {
-            "name": " ",
-            "ingredients": [],
-            "description": " " 
+            "name": "Chicken Tenders",
+            "ingredients": ["Chicken", "Breading", "BBQ Sauce"],
+            "description": "Fried BBQ Chicken Tenders" 
         }
     ],
     "cold sandwhich":[
         {
-            "name": " ",
-            "ingredients": [],
-            "description": " "
+            "name": "Spicy Italian",
+            "ingredients": ["Peperoni", "Salami", "Ham"],
+            "description": "Italian sub, you pick the toppings."
         },
         {
-            "name": " ",
-            "ingredients": [],
-            "description": " " 
+            "name": "Club",
+            "ingredients": ["Ham", "Turkey", "Bacon"],
+            "description": "Club Sandwhich" 
         }
     ],
     "hot sandwhich":[
         {
-            "name": " ",
-            "ingredients": [],
-            "description": " "
+            "name": "Teriaki Chicken",
+            "ingredients": ["Chicken Tenders", "Teriaki Sauce"],
+            "description": "Baked Chicken Tenders in Teriaki Sauce"
         },
         {
-            "name": " ",
-            "ingredients": [],
-            "description": " " 
+            "name": "Philly",
+            "ingredients": ["Skirt Steak", "Onions", "Bell Pepper", "Cheese"],
+            "description": "A hot Philly Cheese Steak Sub" 
         }
     ],
     "deserts":[
         {
-            "name": " ",
-            "ingredients": [],
-            "description": " "
+            "name": "CheeseCake",
+            "ingredients": ["Cheese Cake"],
+            "description": "New York Style Cheese Cake"
         },
         {
-            "name": " ",
-            "ingredients": [],
-            "description": " " 
+            "name": "Brownie",
+            "ingredients": ["chocolate Brownie", "Vanilla Ice Cream"],
+            "description": "Hot Brownie with a side of Ice Cream" 
         }
     ],
     "drinks":[
         {
-            "name": " ",
-            "ingredients": [],
-            "description": " "
+            "name": "Limeaide",
+            "ingredients": ["Sprite", "Lime", "Cherry's"],
+            "description": "A cherry Limeaide"
         },
         {
-            "name": " ",
-            "ingredients": [],
-            "description": " " 
+            "name": "Fountian Drinks",
+            "ingredients": ["Pepsi Products"],
+            "description": "Soda" 
         }
     ]
 }
